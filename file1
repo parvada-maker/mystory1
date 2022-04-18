@@ -1,1 +1,4 @@
 insert1
+commit i1
+testing uncommited changes to find what id git diff
+i am not going to stage this line
